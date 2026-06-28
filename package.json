@@ -1,0 +1,44 @@
+{
+  "name": "unfollow-snitch",
+  "version": "1.0.0",
+  "description": "Find Instagram accounts you follow that do not follow you back.",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "test": "jest",
+    "typecheck": "tsc --noEmit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iarlyy/unfollow-snitch.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iarlyy/unfollow-snitch/issues"
+  },
+  "homepage": "https://github.com/iarlyy/unfollow-snitch#readme",
+  "dependencies": {
+    "adm-zip": "^0.5.17",
+    "formidable": "^3.5.4",
+    "next": "^16.2.9",
+    "react": "^19.2.7",
+    "react-dom": "^19.2.7"
+  },
+  "devDependencies": {
+    "@types/adm-zip": "^0.5.8",
+    "@types/formidable": "^3.5.1",
+    "@types/jest": "^30.0.0",
+    "@types/node": "^26.0.1",
+    "@types/react": "^19.2.17",
+    "@tailwindcss/postcss": "^4.3.1",
+    "jest": "^30.4.2",
+    "postcss": "^8.5.15",
+    "tailwindcss": "^4.3.1",
+    "ts-jest": "^29.4.11",
+    "typescript": "^6.0.3"
+  }
+}

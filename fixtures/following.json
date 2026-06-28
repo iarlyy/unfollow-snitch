@@ -1,0 +1,58 @@
+{
+  "relationships_following": [
+    {
+      "title": "alice_dev",
+      "string_list_data": [
+        {
+          "href": "https://www.instagram.com/_u/alice_dev",
+          "timestamp": 1781256326
+        }
+      ]
+    },
+    {
+      "title": "bob.codes",
+      "string_list_data": [
+        {
+          "href": "https://www.instagram.com/_u/bob.codes",
+          "timestamp": 1781191557
+        }
+      ]
+    },
+    {
+      "title": "carol_builds",
+      "string_list_data": [
+        {
+          "href": "https://www.instagram.com/_u/carol_builds",
+          "timestamp": 1779035778
+        }
+      ]
+    },
+    {
+      "title": "dave.design",
+      "string_list_data": [
+        {
+          "href": "https://www.instagram.com/_u/dave.design",
+          "timestamp": 1779020243
+        }
+      ]
+    },
+    {
+      "title": "eve_snaps",
+      "string_list_data": [
+        {
+          "href": "https://www.instagram.com/_u/eve_snaps",
+          "timestamp": 1779020237
+        }
+      ]
+    },
+    {
+      "title": "frank.photos",
+      "string_list_data": [
+        {
+          "href": "https://www.instagram.com/_u/frank.photos",
+          "timestamp": 1779017238
+        }
+      ]
+    }
+  ]
+}
